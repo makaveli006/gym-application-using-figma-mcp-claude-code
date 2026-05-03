@@ -91,3 +91,7 @@ Then open the local URL shown by Vite (usually `http://localhost:5173`).
 - Most buttons/links are UI placeholders and do not perform navigation/actions yet.
 - Several images are loaded from Unsplash URLs, so internet access is required to view them.
 
+## Design Attribution
+
+- The UI design used in this project was copied from a Figma design.
+- I did not create the original design; this repository is only the coded implementation.
